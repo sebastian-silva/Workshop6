@@ -2,7 +2,7 @@
 
 ### Sensor ###
 * Se utiliza el sensor BME280
-![image](https://user-images.githubusercontent.com/85096310/166853001-33dcfa83-e75a-40b3-a2d6-c4211eb1f6fe.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![image](https://user-images.githubusercontent.com/85096310/166853001-33dcfa83-e75a-40b3-a2d6-c4211eb1f6fe.png)
 
 ### Embedded System ###
 * Hardware: Se utilizo la raspberry PI 3 model B v1.2
