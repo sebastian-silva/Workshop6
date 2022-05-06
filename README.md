@@ -10,8 +10,9 @@
 * Software Se desarrollo la solucion por medio de NODE.JS, que se implementa en el sistema de la raspberry.
 
 ### Connectivity ###
-* Se hizo todo a traves del cloud computing, por medio del servicio de Azure.
-![image](https://user-images.githubusercontent.com/85096310/166851968-5524a97d-97c5-4a8d-a47e-586f1a8ffef3.png)
+* Se comunica el dispositivo con la aplicacion en la nube por medio de MQTT 
+![image](https://user-images.githubusercontent.com/85096310/167060333-95b7fc4f-2b1e-425e-824c-de0edeb046b0.png)
+* Enviando las respuestas del sensor por medio de JSON para ser procesadas por el servidor, en este caso azure.
 
 
 ### Data Analytic ###
